@@ -4,7 +4,7 @@ fight/protest for any cause. This project consists of all the almost functionali
 Tweets, Likes, comments and retweets, Profile pages, Following and followers support, Instant 
 messaging in real time, Group chat support, Profile pictures, Cover photos and much more!
 
-       As mentioned above I created Twitter clone using NodeJS, MongoDB, ExpressJS framework. 
+       As mentioned above I created Twitter clone using NodeJS, MongoDB, ExpressJS framework.
 Frontend is done using pug, database storing through mongoDB cloud, and uploading images using 
 multer. ExpressJS is used for running the server. Used socket.io for real time notifications and 
 messages, Bcrypt for hashing the user’s password.
@@ -62,5 +62,5 @@ by a sliding notification in the view at the top right corner for 3 seconds. The
 implemented for the messages as well. The notification and message badges are updated
 accordingly for every notification.
 By clicking on the log out icon which is below of all the navigation icons user can log out of the 
-web application
+web application.
 
